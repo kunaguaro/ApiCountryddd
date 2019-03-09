@@ -1,0 +1,370 @@
+2019-03-06 21:29:18.4875 Info Message Template Auto Format enabled
+2019-03-06 21:29:18.5514 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 21:29:19.1710 Info Adding target File Target[alldata]
+2019-03-06 21:29:19.2404 Info Adding target File Target[otherFile-web]
+2019-03-06 21:29:19.2913 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\nlog.config...
+2019-03-06 21:29:19.4781 Info Found 45 configuration items
+2019-03-06 21:43:46.3715 Info Message Template Auto Format enabled
+2019-03-06 21:43:46.4168 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 21:43:46.8434 Info Adding target File Target[alldata]
+2019-03-06 21:43:46.8790 Info Adding target File Target[otherFile-web]
+2019-03-06 21:43:46.9221 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 21:43:47.0413 Info Found 45 configuration items
+2019-03-06 22:02:29.6756 Info Message Template Auto Format enabled
+2019-03-06 22:02:29.7262 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:02:30.1267 Info Adding target File Target[alldata]
+2019-03-06 22:02:30.1670 Info Adding target File Target[otherFile-web]
+2019-03-06 22:02:30.2120 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:02:30.3056 Info Found 45 configuration items
+2019-03-06 22:05:14.1952 Info Message Template Auto Format enabled
+2019-03-06 22:05:14.2411 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:05:14.6362 Info Adding target File Target[alldata]
+2019-03-06 22:05:14.6946 Info Adding target File Target[otherFile-web]
+2019-03-06 22:05:14.7557 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:05:14.9320 Info Found 45 configuration items
+2019-03-06 22:06:36.1333 Info Message Template Auto Format enabled
+2019-03-06 22:06:36.1952 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:06:36.6308 Info Adding target File Target[alldata]
+2019-03-06 22:06:36.6728 Info Adding target File Target[otherFile-web]
+2019-03-06 22:06:36.7148 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:06:36.8116 Info Found 45 configuration items
+2019-03-06 22:08:23.4660 Info Message Template Auto Format enabled
+2019-03-06 22:08:23.5264 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:08:23.9256 Info Adding target File Target[alldata]
+2019-03-06 22:08:23.9819 Info Adding target File Target[otherFile-web]
+2019-03-06 22:08:24.0666 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:08:24.4812 Info Found 45 configuration items
+2019-03-06 22:15:12.3969 Info Message Template Auto Format enabled
+2019-03-06 22:15:12.4380 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:15:12.7729 Info Adding target File Target[alldata]
+2019-03-06 22:15:12.8094 Info Adding target File Target[otherFile-web]
+2019-03-06 22:15:12.8657 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:15:12.9780 Info Found 45 configuration items
+2019-03-06 22:15:51.9206 Info Message Template Auto Format enabled
+2019-03-06 22:15:51.9621 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:15:52.3474 Info Adding target File Target[alldata]
+2019-03-06 22:15:52.3999 Info Adding target File Target[otherFile-web]
+2019-03-06 22:15:52.4417 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:15:52.5397 Info Found 45 configuration items
+2019-03-06 22:19:30.1516 Info Message Template Auto Format enabled
+2019-03-06 22:19:30.1979 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:19:30.5538 Info Adding target File Target[alldata]
+2019-03-06 22:19:30.5908 Info Adding target File Target[otherFile-web]
+2019-03-06 22:19:30.6389 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:19:30.7482 Info Found 45 configuration items
+2019-03-06 22:22:39.3667 Info Message Template Auto Format enabled
+2019-03-06 22:22:39.4184 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:22:39.8469 Info Adding target File Target[alldata]
+2019-03-06 22:22:39.8785 Info Adding target File Target[otherFile-web]
+2019-03-06 22:22:39.9236 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:22:40.0268 Info Found 45 configuration items
+2019-03-06 22:24:42.9265 Info Message Template Auto Format enabled
+2019-03-06 22:24:42.9765 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:24:43.5266 Info Adding target File Target[alldata]
+2019-03-06 22:24:43.5678 Info Adding target File Target[otherFile-web]
+2019-03-06 22:24:43.6175 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:24:43.7450 Info Found 45 configuration items
+2019-03-06 22:25:49.9778 Info Message Template Auto Format enabled
+2019-03-06 22:25:50.0326 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:25:50.5079 Info Adding target File Target[alldata]
+2019-03-06 22:25:50.5401 Info Adding target File Target[otherFile-web]
+2019-03-06 22:25:50.5820 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:25:50.6825 Info Found 45 configuration items
+2019-03-06 22:36:32.1043 Info Message Template Auto Format enabled
+2019-03-06 22:36:32.1647 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:36:32.7687 Info Adding target File Target[alldata]
+2019-03-06 22:36:32.9714 Info Adding target File Target[otherFile-web]
+2019-03-06 22:36:33.0360 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:36:33.1978 Info Found 45 configuration items
+2019-03-06 22:38:49.3226 Info Message Template Auto Format enabled
+2019-03-06 22:38:49.3853 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:38:49.8153 Info Adding target File Target[alldata]
+2019-03-06 22:38:49.8531 Info Adding target File Target[otherFile-web]
+2019-03-06 22:38:49.8999 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:38:49.9809 Info Found 45 configuration items
+2019-03-06 22:57:34.8054 Info Message Template Auto Format enabled
+2019-03-06 22:57:34.9071 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-06 22:57:35.2286 Info Adding target File Target[alldata]
+2019-03-06 22:57:35.2677 Info Adding target File Target[otherFile-web]
+2019-03-06 22:57:35.3153 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-06 22:57:35.4378 Info Found 45 configuration items
+2019-03-07 05:41:02.2368 Info Message Template Auto Format enabled
+2019-03-07 05:41:02.2841 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 05:41:02.6767 Info Adding target File Target[alldata]
+2019-03-07 05:41:02.7150 Info Adding target File Target[otherFile-web]
+2019-03-07 05:41:02.7575 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-07 05:41:02.8373 Info Found 45 configuration items
+2019-03-07 05:42:29.0274 Info Message Template Auto Format enabled
+2019-03-07 05:42:29.0989 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 05:42:29.3997 Info Adding target File Target[alldata]
+2019-03-07 05:42:29.4813 Info Adding target File Target[otherFile-web]
+2019-03-07 05:42:29.5558 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-07 05:42:29.6829 Info Found 45 configuration items
+2019-03-07 05:43:54.5720 Info Message Template Auto Format enabled
+2019-03-07 05:43:54.6190 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 05:43:54.9085 Info Adding target File Target[alldata]
+2019-03-07 05:43:55.0120 Info Adding target File Target[otherFile-web]
+2019-03-07 05:43:55.0543 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-07 05:43:55.1833 Info Found 45 configuration items
+2019-03-07 05:55:55.1097 Info Message Template Auto Format enabled
+2019-03-07 05:55:55.1486 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 05:55:55.3555 Info Adding target File Target[alldata]
+2019-03-07 05:55:55.3652 Info Adding target File Target[otherFile-web]
+2019-03-07 05:55:55.3936 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\NLog.config...
+2019-03-07 05:55:55.4526 Info Found 45 configuration items
+2019-03-07 05:55:55.5242 Info Configuration initialized.
+2019-03-07 05:55:55.5587 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-07 05:55:58.3597 Info Shutting down logging...
+2019-03-07 05:55:58.4161 Info Logger has been shut down.
+2019-03-07 05:56:10.1176 Info Message Template Auto Format enabled
+2019-03-07 05:56:10.1544 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 05:56:10.3424 Info Adding target File Target[alldata]
+2019-03-07 05:56:10.3424 Info Adding target File Target[otherFile-web]
+2019-03-07 05:56:10.3766 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\NLog.config...
+2019-03-07 05:56:10.4424 Info Found 45 configuration items
+2019-03-07 05:56:10.5022 Info Configuration initialized.
+2019-03-07 05:56:10.5152 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-07 05:56:13.8175 Info Shutting down logging...
+2019-03-07 05:56:13.8857 Info Logger has been shut down.
+2019-03-07 06:11:38.7352 Info Message Template Auto Format enabled
+2019-03-07 06:11:38.7663 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 06:11:38.9462 Info Adding target File Target[alldata]
+2019-03-07 06:11:38.9531 Info Adding target File Target[otherFile-web]
+2019-03-07 06:11:38.9764 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\NLog.config...
+2019-03-07 06:11:39.0356 Info Found 45 configuration items
+2019-03-07 06:11:39.1089 Info Configuration initialized.
+2019-03-07 06:11:39.1225 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-07 06:11:42.0887 Info Shutting down logging...
+2019-03-07 06:11:42.1627 Info Logger has been shut down.
+2019-03-07 06:11:54.6146 Info Message Template Auto Format enabled
+2019-03-07 06:11:54.6459 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 06:11:54.8293 Info Adding target File Target[alldata]
+2019-03-07 06:11:54.8293 Info Adding target File Target[otherFile-web]
+2019-03-07 06:11:54.8622 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\NLog.config...
+2019-03-07 06:11:54.9176 Info Found 45 configuration items
+2019-03-07 06:11:54.9788 Info Configuration initialized.
+2019-03-07 06:11:54.9919 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-07 06:11:58.7405 Info Shutting down logging...
+2019-03-07 06:11:58.8179 Info Logger has been shut down.
+2019-03-07 06:16:41.5072 Info Message Template Auto Format enabled
+2019-03-07 06:16:41.5440 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 06:16:41.7301 Info Adding target File Target[alldata]
+2019-03-07 06:16:41.7377 Info Adding target File Target[otherFile-web]
+2019-03-07 06:16:41.7667 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\NLog.config...
+2019-03-07 06:16:41.8368 Info Found 45 configuration items
+2019-03-07 06:16:41.9112 Info Configuration initialized.
+2019-03-07 06:16:41.9261 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-07 06:16:44.8567 Info Shutting down logging...
+2019-03-07 06:16:44.9272 Info Logger has been shut down.
+2019-03-07 06:16:58.3306 Info Message Template Auto Format enabled
+2019-03-07 06:16:58.3636 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 06:16:58.5471 Info Adding target File Target[alldata]
+2019-03-07 06:16:58.5471 Info Adding target File Target[otherFile-web]
+2019-03-07 06:16:58.5855 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\NLog.config...
+2019-03-07 06:16:58.6496 Info Found 45 configuration items
+2019-03-07 06:16:58.7211 Info Configuration initialized.
+2019-03-07 06:16:58.7365 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-07 06:17:01.8136 Info Shutting down logging...
+2019-03-07 06:17:01.8794 Info Logger has been shut down.
+2019-03-07 06:21:43.6415 Info Message Template Auto Format enabled
+2019-03-07 06:21:43.6776 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 06:21:43.8471 Info Adding target File Target[alldata]
+2019-03-07 06:21:43.8563 Info Adding target File Target[otherFile-web]
+2019-03-07 06:21:43.8886 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\NLog.config...
+2019-03-07 06:21:43.9487 Info Found 45 configuration items
+2019-03-07 06:21:44.0148 Info Configuration initialized.
+2019-03-07 06:21:44.0286 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-07 06:21:46.8448 Info Shutting down logging...
+2019-03-07 06:21:46.9131 Info Logger has been shut down.
+2019-03-07 06:21:58.4079 Info Message Template Auto Format enabled
+2019-03-07 06:21:58.4402 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 06:21:58.6230 Info Adding target File Target[alldata]
+2019-03-07 06:21:58.6230 Info Adding target File Target[otherFile-web]
+2019-03-07 06:21:58.6569 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\NLog.config...
+2019-03-07 06:21:58.7177 Info Found 45 configuration items
+2019-03-07 06:21:58.7820 Info Configuration initialized.
+2019-03-07 06:21:58.7960 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-07 06:22:01.9468 Info Shutting down logging...
+2019-03-07 06:22:02.0164 Info Logger has been shut down.
+2019-03-07 06:23:41.8702 Info Message Template Auto Format enabled
+2019-03-07 06:23:41.9041 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 06:23:42.0887 Info Adding target File Target[alldata]
+2019-03-07 06:23:42.0961 Info Adding target File Target[otherFile-web]
+2019-03-07 06:23:42.1190 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\NLog.config...
+2019-03-07 06:23:42.1841 Info Found 45 configuration items
+2019-03-07 06:23:42.2467 Info Configuration initialized.
+2019-03-07 06:23:42.2628 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-07 06:23:44.9484 Info Shutting down logging...
+2019-03-07 06:23:45.0056 Info Logger has been shut down.
+2019-03-07 06:23:56.7248 Info Message Template Auto Format enabled
+2019-03-07 06:23:56.7589 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 06:23:56.9331 Info Adding target File Target[alldata]
+2019-03-07 06:23:56.9404 Info Adding target File Target[otherFile-web]
+2019-03-07 06:23:56.9655 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\NLog.config...
+2019-03-07 06:23:57.0271 Info Found 45 configuration items
+2019-03-07 06:23:57.0938 Info Configuration initialized.
+2019-03-07 06:23:57.1067 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2019-03-07 06:24:11.6269 Info Shutting down logging...
+2019-03-07 06:24:11.6944 Info Logger has been shut down.
+2019-03-07 06:29:30.6491 Info Message Template Auto Format enabled
+2019-03-07 06:29:30.6933 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 06:29:31.2083 Info Adding target File Target[alldata]
+2019-03-07 06:29:31.2589 Info Adding target File Target[otherFile-web]
+2019-03-07 06:29:31.3132 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-07 06:29:31.4616 Info Found 45 configuration items
+2019-03-07 06:37:56.4749 Info Message Template Auto Format enabled
+2019-03-07 06:37:56.5153 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 06:37:56.8251 Info Adding target File Target[alldata]
+2019-03-07 06:37:56.8572 Info Adding target File Target[otherFile-web]
+2019-03-07 06:37:56.8992 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-07 06:37:57.0041 Info Found 45 configuration items
+2019-03-07 07:12:44.5140 Info Message Template Auto Format enabled
+2019-03-07 07:12:44.5545 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 07:12:44.8685 Info Adding target File Target[alldata]
+2019-03-07 07:12:44.9094 Info Adding target File Target[otherFile-web]
+2019-03-07 07:12:44.9501 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-07 07:12:45.0415 Info Found 45 configuration items
+2019-03-07 07:18:51.8933 Info Message Template Auto Format enabled
+2019-03-07 07:18:51.9702 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 07:18:53.3497 Info Adding target File Target[alldata]
+2019-03-07 07:18:53.7945 Info Adding target File Target[otherFile-web]
+2019-03-07 07:18:53.9840 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-07 07:18:54.3261 Info Found 45 configuration items
+2019-03-07 22:48:00.7149 Info Message Template Auto Format enabled
+2019-03-07 22:48:00.7848 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 22:48:01.3479 Info Adding target File Target[alldata]
+2019-03-07 22:48:01.4239 Info Adding target File Target[otherFile-web]
+2019-03-07 22:48:01.4738 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-07 22:48:01.5654 Info Found 45 configuration items
+2019-03-07 23:13:57.3002 Info Message Template Auto Format enabled
+2019-03-07 23:13:57.3509 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-07 23:13:57.8068 Info Adding target File Target[alldata]
+2019-03-07 23:13:57.8667 Info Adding target File Target[otherFile-web]
+2019-03-07 23:13:57.9333 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-07 23:13:58.0598 Info Found 45 configuration items
+2019-03-08 11:30:37.9426 Info Message Template Auto Format enabled
+2019-03-08 11:30:38.0054 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 11:30:38.2952 Info Adding target File Target[alldata]
+2019-03-08 11:30:38.3441 Info Adding target File Target[otherFile-web]
+2019-03-08 11:30:38.3914 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 11:30:38.4852 Info Found 45 configuration items
+2019-03-08 14:01:45.9098 Info Message Template Auto Format enabled
+2019-03-08 14:01:45.9392 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 14:01:46.1704 Info Adding target File Target[alldata]
+2019-03-08 14:01:46.1930 Info Adding target File Target[otherFile-web]
+2019-03-08 14:01:46.2210 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 14:01:46.2938 Info Found 45 configuration items
+2019-03-08 14:02:27.2011 Info Message Template Auto Format enabled
+2019-03-08 14:02:27.2605 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 14:02:27.5245 Info Adding target File Target[alldata]
+2019-03-08 14:02:27.5351 Info Adding target File Target[otherFile-web]
+2019-03-08 14:02:27.5744 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 14:02:27.6353 Info Found 45 configuration items
+2019-03-08 14:16:33.6037 Info Message Template Auto Format enabled
+2019-03-08 14:16:33.6451 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 14:16:33.9242 Info Adding target File Target[alldata]
+2019-03-08 14:16:33.9587 Info Adding target File Target[otherFile-web]
+2019-03-08 14:16:33.9958 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 14:16:34.1068 Info Found 45 configuration items
+2019-03-08 14:16:43.5576 Info Message Template Auto Format enabled
+2019-03-08 14:16:43.5882 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 14:16:43.7770 Info Adding target File Target[alldata]
+2019-03-08 14:16:43.7873 Info Adding target File Target[otherFile-web]
+2019-03-08 14:16:43.8135 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 14:16:43.8783 Info Found 45 configuration items
+2019-03-08 14:17:06.1589 Info Message Template Auto Format enabled
+2019-03-08 14:17:06.2163 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 14:17:06.5439 Info Adding target File Target[alldata]
+2019-03-08 14:17:06.6180 Info Adding target File Target[otherFile-web]
+2019-03-08 14:17:06.6619 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 14:17:06.7495 Info Found 45 configuration items
+2019-03-08 15:34:20.7609 Info Message Template Auto Format enabled
+2019-03-08 15:34:20.7955 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 15:34:21.1237 Info Adding target File Target[alldata]
+2019-03-08 15:34:21.1499 Info Adding target File Target[otherFile-web]
+2019-03-08 15:34:21.1921 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 15:34:21.2807 Info Found 45 configuration items
+2019-03-08 15:50:47.9891 Info Message Template Auto Format enabled
+2019-03-08 15:50:48.0341 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 15:50:48.3906 Info Adding target File Target[alldata]
+2019-03-08 15:50:48.4293 Info Adding target File Target[otherFile-web]
+2019-03-08 15:50:48.4724 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 15:50:48.5706 Info Found 45 configuration items
+2019-03-08 16:11:18.3391 Info Message Template Auto Format enabled
+2019-03-08 16:11:18.3765 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 16:11:18.7411 Info Adding target File Target[alldata]
+2019-03-08 16:11:18.7762 Info Adding target File Target[otherFile-web]
+2019-03-08 16:11:18.8186 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 16:11:18.9207 Info Found 45 configuration items
+2019-03-08 17:19:49.9397 Info Message Template Auto Format enabled
+2019-03-08 17:19:49.9897 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 17:19:50.3054 Info Adding target File Target[alldata]
+2019-03-08 17:19:50.3423 Info Adding target File Target[otherFile-web]
+2019-03-08 17:19:50.3752 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 17:19:50.4633 Info Found 45 configuration items
+2019-03-08 18:26:10.8243 Info Message Template Auto Format enabled
+2019-03-08 18:26:10.8918 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 18:26:11.2626 Info Adding target File Target[alldata]
+2019-03-08 18:26:11.3065 Info Adding target File Target[otherFile-web]
+2019-03-08 18:26:11.3639 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 18:26:11.4688 Info Found 45 configuration items
+2019-03-08 18:28:11.7593 Info Message Template Auto Format enabled
+2019-03-08 18:28:11.8394 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 18:28:12.1584 Info Adding target File Target[alldata]
+2019-03-08 18:28:12.2106 Info Adding target File Target[otherFile-web]
+2019-03-08 18:28:12.2570 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 18:28:12.3732 Info Found 45 configuration items
+2019-03-08 18:33:00.3857 Info Message Template Auto Format enabled
+2019-03-08 18:33:00.4247 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 18:33:00.7296 Info Adding target File Target[alldata]
+2019-03-08 18:33:00.7567 Info Adding target File Target[otherFile-web]
+2019-03-08 18:33:00.7996 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 18:33:00.8944 Info Found 45 configuration items
+2019-03-08 18:48:32.3058 Info Message Template Auto Format enabled
+2019-03-08 18:48:32.3442 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 18:48:32.7334 Info Adding target File Target[alldata]
+2019-03-08 18:48:32.7806 Info Adding target File Target[otherFile-web]
+2019-03-08 18:48:32.8415 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 18:48:32.9483 Info Found 45 configuration items
+2019-03-08 18:55:25.4357 Info Message Template Auto Format enabled
+2019-03-08 18:55:25.4779 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 18:55:25.8546 Info Adding target File Target[alldata]
+2019-03-08 18:55:25.8841 Info Adding target File Target[otherFile-web]
+2019-03-08 18:55:25.9224 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 18:55:26.0134 Info Found 45 configuration items
+2019-03-08 19:00:20.8647 Info Message Template Auto Format enabled
+2019-03-08 19:00:20.9160 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 19:00:21.2519 Info Adding target File Target[alldata]
+2019-03-08 19:00:21.3218 Info Adding target File Target[otherFile-web]
+2019-03-08 19:00:21.3667 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 19:00:21.4684 Info Found 45 configuration items
+2019-03-08 19:09:19.8736 Info Message Template Auto Format enabled
+2019-03-08 19:09:19.9379 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-08 19:09:20.3102 Info Adding target File Target[alldata]
+2019-03-08 19:09:20.3456 Info Adding target File Target[otherFile-web]
+2019-03-08 19:09:20.3982 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-08 19:09:20.4918 Info Found 45 configuration items
+2019-03-09 09:23:21.7344 Info Message Template Auto Format enabled
+2019-03-09 09:23:21.8203 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-09 09:23:22.1710 Info Adding target File Target[alldata]
+2019-03-09 09:23:22.2193 Info Adding target File Target[otherFile-web]
+2019-03-09 09:23:22.2639 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-09 09:23:22.3862 Info Found 45 configuration items
+2019-03-09 09:26:27.1853 Info Message Template Auto Format enabled
+2019-03-09 09:26:27.2396 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-09 09:26:27.5986 Info Adding target File Target[alldata]
+2019-03-09 09:26:27.6571 Info Adding target File Target[otherFile-web]
+2019-03-09 09:26:27.6964 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-09 09:26:27.8113 Info Found 45 configuration items
+2019-03-09 09:38:51.4380 Info Message Template Auto Format enabled
+2019-03-09 09:38:51.4812 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-09 09:38:51.8233 Info Adding target File Target[alldata]
+2019-03-09 09:38:51.8542 Info Adding target File Target[otherFile-web]
+2019-03-09 09:38:51.8933 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-09 09:38:51.9816 Info Found 45 configuration items
+2019-03-09 09:44:55.0318 Info Message Template Auto Format enabled
+2019-03-09 09:44:55.0878 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-09 09:44:55.4710 Info Adding target File Target[alldata]
+2019-03-09 09:44:55.5103 Info Adding target File Target[otherFile-web]
+2019-03-09 09:44:55.5527 Info Configured from an XML element in C:\Users\Omar\Desktop\Finales\WepApiExampleDDD\WebApiCountry\bin\Debug\netcoreapp2.1\netcoreapp2.1\nlog.config...
+2019-03-09 09:44:55.6447 Info Found 45 configuration items
